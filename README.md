@@ -1,5 +1,6 @@
 ![logo](https://github.com/Milan1609/Milan1609/blob/main/my%20name.png)
 <h1 align="center">Hi 👋, I'm Milan Mehta</h1>
+<h3 align='center'>Recent Computer Engineering Graduate | Proficient in Data Analytics, Python, SQL, and Web Development Technologies (JavaScript, CSS, HTML)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milan1609&label=Profile%20views&color=0e75b6&style=flat" alt="milan1609" /> </p>
 
 - 📫 How to reach me **milanmehta169@gmail.com**
